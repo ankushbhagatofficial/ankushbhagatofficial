@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, folks! <img src="https://user-images.githubusercontent.com/74892618/104591240-67b41080-5692-11eb-856d-5f9041f62681.gif" width="30px">
+
+<link rel="stylesheet" href="https://raw.githubusercontent.com/ankushbhagatofficial/ankushbhagatofficial/master/style.css">
+<div class="gradient">Hi there, I'm Ankush Bhagat Official</div>
+
 
 <!--
 **ankushbhagatofficial/ankushbhagatofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
