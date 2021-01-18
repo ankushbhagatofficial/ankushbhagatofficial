@@ -2,6 +2,7 @@
 
 <link rel="stylesheet" href="https://raw.githubusercontent.com/ankushbhagatofficial/ankushbhagatofficial/master/style.css">
 <div class="gradient">Hi there, I'm Ankush Bhagat Official</div>
+<img alt="ankushbhagatofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankushbhagatofficial&show_icons=true&include_all_commits=true&hide_border=true"/></p>
 
 
 <!--
